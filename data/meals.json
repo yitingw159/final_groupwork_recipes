@@ -1,0 +1,114 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "宫保鸡丁",
+      "category": "川菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["鸡肉", "花生", "干辣椒", "葱姜蒜", "酱油", "醋"],
+      "instructions": "1.鸡肉切丁腌制\n2.热油爆香辣椒\n3.加入鸡丁翻炒\n4.加调料收汁\n5.撒花生出锅",
+      "nutrition": {"calories": 350, "protein": 25, "fat": 18, "carbs": 15},
+      "cookTime": 20
+    },
+    {
+      "id": "2",
+      "name": "红烧排骨",
+      "category": "家常菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["排骨", "冰糖", "酱油", "料酒", "八角", "桂皮"],
+      "instructions": "1.排骨焯水去腥\n2.冰糖炒色\n3.加入排骨翻炒\n4.加水炖煮40分钟\n5.收汁装盘",
+      "nutrition": {"calories": 480, "protein": 30, "fat": 25, "carbs": 12},
+      "cookTime": 50
+    },
+    {
+      "id": "3",
+      "name": "番茄炒蛋",
+      "category": "家常菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["番茄", "鸡蛋", "盐", "糖", "葱花"],
+      "instructions": "1.番茄切块\n2.鸡蛋打散炒熟\n3.加入番茄翻炒\n4.加盐糖调味\n5.撒葱花出锅",
+      "nutrition": {"calories": 180, "protein": 12, "fat": 8, "carbs": 10},
+      "cookTime": 10
+    },
+    {
+      "id": "4",
+      "name": "麻婆豆腐",
+      "category": "川菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["豆腐", "牛肉末", "豆瓣酱", "花椒粉", "辣椒", "葱姜"],
+      "instructions": "1.豆腐切块焯水\n2.炒牛肉末\n3.加豆瓣酱炒红油\n4.放入豆腐\n5.撒花椒粉出锅",
+      "nutrition": {"calories": 220, "protein": 15, "fat": 12, "carbs": 8},
+      "cookTime": 15
+    },
+    {
+      "id": "5",
+      "name": "清蒸鲈鱼",
+      "category": "粤菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["鲈鱼", "葱姜", "蒸鱼豉油", "料酒", "盐"],
+      "instructions": "1.鲈鱼洗净划刀\n2.铺葱姜蒸8分钟\n3.倒掉蒸水\n4.淋蒸鱼豉油\n5.撒葱丝上桌",
+      "nutrition": {"calories": 150, "protein": 22, "fat": 5, "carbs": 2},
+      "cookTime": 15
+    },
+    {
+      "id": "6",
+      "name": "水煮牛肉",
+      "category": "川菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["牛肉", "豆芽", "生菜", "干辣椒", "花椒", "豆瓣酱"],
+      "instructions": "1.牛肉切片腌制\n2.焯水蔬菜铺底\n3.煮牛肉片\n4.浇热油激香\n5.上桌",
+      "nutrition": {"calories": 380, "protein": 28, "fat": 20, "carbs": 10},
+      "cookTime": 25
+    },
+    {
+      "id": "7",
+      "name": "糖醋里脊",
+      "category": "鲁菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["猪里脊", "番茄酱", "白糖", "醋", "淀粉", "鸡蛋"],
+      "instructions": "1.里脊切条裹糊\n2.油炸至金黄\n3.调糖醋汁\n4.浇汁翻炒\n5.装盘",
+      "nutrition": {"calories": 420, "protein": 20, "fat": 22, "carbs": 30},
+      "cookTime": 20
+    },
+    {
+      "id": "8",
+      "name": "小炒肉",
+      "category": "湘菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["五花肉", "青椒", "红椒", "蒜", "酱油", "豆豉"],
+      "instructions": "1.五花肉切片\n2.煸炒出油\n3.加豆豉蒜\n4.放入青红椒\n5.翻炒出锅",
+      "nutrition": {"calories": 320, "protein": 18, "fat": 20, "carbs": 8},
+      "cookTime": 15
+    },
+    {
+      "id": "9",
+      "name": "蛋炒饭",
+      "category": "家常菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["米饭", "鸡蛋", "葱花", "盐", "酱油"],
+      "instructions": "1.鸡蛋打散炒碎\n2.加入米饭翻炒\n3.加盐酱油调味\n4.撒葱花\n5.出锅",
+      "nutrition": {"calories": 280, "protein": 10, "fat": 12, "carbs": 35},
+      "cookTime": 8
+    },
+    {
+      "id": "10",
+      "name": "酸辣土豆丝",
+      "category": "家常菜",
+      "area": "中国",
+      "image": "",
+      "ingredients": ["土豆", "干辣椒", "醋", "花椒", "盐", "葱"],
+      "instructions": "1.土豆切丝泡水\n2.热油爆花椒辣椒\n3.放入土豆丝翻炒\n4.加醋盐调味\n5.出锅",
+      "nutrition": {"calories": 120, "protein": 3, "fat": 5, "carbs": 15},
+      "cookTime": 10
+    }
+  ]
+}
